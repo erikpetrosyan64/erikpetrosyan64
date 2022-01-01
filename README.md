@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Erik
 - 👀 I am interested in desktop programs, automation, bots and more.
-- 🌱 Now I am studying the C # programming language and can already consider myself a Junior developer, but so far I have no work experience in the company.
+- 🌱 Now I am studying the C # programming language and can already consider myself a junior developer. I do not have any work experience in the company yet, and I am not looking for a job yet. Now study is more important for me, but having mastered certain skills and knowledge, I plan to find myself a job
 - 💞️ In the future, I want to collaborate on large projects and maybe even create something of my own.
 - 📫 Gmail | erikpetrosyan64@gmail.com
