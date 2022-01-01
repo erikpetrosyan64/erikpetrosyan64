@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Petrosyan Eric
+- 👋 Hi, I'm Erik
 - 👀 I am interested in desktop programs, automation, bots and more.
 - 🌱 Now I am studying the C # programming language and can already consider myself a Junior developer, but so far I have no work experience in the company.
 - 💞️ In the future, I want to collaborate on large projects and maybe even create something of my own.
